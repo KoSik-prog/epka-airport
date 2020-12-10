@@ -10,5 +10,5 @@ What was done:
 - Hangars added
 
 What you need to do:
-- Add the HEMS - Polish Medical Air Rescue building
+- Add the HEMS - Lotnicze Pogotowie Ratunkowe building
 - Remove pushback and handling from parking stands
