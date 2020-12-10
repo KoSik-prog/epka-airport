@@ -1,6 +1,6 @@
 # epka-airport
 
-Design of the scenery of the Kielce airport EPKA - Masłów
+Scenery of the Kielce airport EPKA - Masłów for Microsoft Flight Simulator 2020
 
 What was done:
 - The position of the runway 11P has been corrected
