@@ -1,1 +1,14 @@
 # epka-airport
+
+Design of the scenery of the Kielce airport EPKA - Masłów
+
+What was done:
+- The position of the runway 11P has been corrected
+- 11L grass runway added
+- Taxiways have been corrected
+- The building of the Aeroklub Kielecki has been added
+- Hangars added
+
+What you need to do:
+- Add the HEMS - Polish Medical Air Rescue building
+- Remove pushback and handling from parking stands
