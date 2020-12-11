@@ -9,6 +9,6 @@ What was done:
 - The building of the Aeroklub Kielecki has been added
 - Hangars added
 
-What you need to do:
+To do:
 - Add the HEMS - Lotnicze Pogotowie Ratunkowe building
 - Remove pushback and handling from parking stands
