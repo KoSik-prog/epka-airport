@@ -11,4 +11,3 @@ What was done:
 
 To do:
 - Add the HEMS - Lotnicze Pogotowie Ratunkowe building
-- Remove pushback and handling from parking stands
